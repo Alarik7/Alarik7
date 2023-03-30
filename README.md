@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently exploring AI/ML<br>🤝 I’m looking for help with learning AI/ML<br>🌱 I’m currently learning flutter and python
+![giphy](https://user-images.githubusercontent.com/93307340/228935279-e46d509c-fb5b-465c-9ddb-3681c631b7d1.gif)
 
 
 ## 🌐 Socials:
